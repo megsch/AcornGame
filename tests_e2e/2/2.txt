@@ -1,0 +1,1 @@
+Positive test, simple board, checking teleports.
