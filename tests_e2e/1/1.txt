@@ -1,0 +1,1 @@
+Positive test, short straight path from start to finish. Simple input.
