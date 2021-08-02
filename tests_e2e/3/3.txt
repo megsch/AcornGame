@@ -1,0 +1,1 @@
+Positive case, simple board, check the interaction between water and fire cells.
